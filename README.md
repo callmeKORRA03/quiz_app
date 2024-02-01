@@ -7,4 +7,4 @@ Quiz App for Web3Brigde web2Cohort Project
 - [x] Questions
 - [x] Answers
 - [x] Next Question
-- [] Responsiveness
+- [ ] Responsiveness
