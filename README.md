@@ -4,7 +4,7 @@ Quiz App for Web3Brigde web2Cohort Project
 
 ## Features
 
-- [ ] Questions
-- [ ] Answers
-- [ ] Next Question
-- [x] Responsiveness
+- [x] Questions
+- [x] Answers
+- [x] Next Question
+- [] Responsiveness
